@@ -1,2 +1,14 @@
 # DeenRoutine-Download-apk
 DeenRoutine Download ‍apk দ্বীন দৈনিক রুটিন ডাইনলোড করুন ইসলামি এপস
+🌙 DeenRoutine v2.0.0
+
+✨ What's New:
+- Official v2.0.0 (Build 2) Upgrade
+- Direct GitHub Download Button Added
+- Performance Improved & Bugs Fixed
+- New Features Added
+
+📥 Download:
+Click on DeenRoutine-v2.0.0.apk below to download and install directly.
+
+JazakAllahu Khairan
