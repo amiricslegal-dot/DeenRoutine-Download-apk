@@ -9,6 +9,6 @@ DeenRoutine Download ‍apk দ্বীন দৈনিক রুটিন ড�
 - New Features Added
 
 📥 Download:
-Click on DeenRoutine-v2.0.0.apk below to download and install directly.
+Click on DeenRoutine-v2.0.0.apk https://github.com/amiricslegal-dot/DeenRoutine-Download-apk/releases/download/v2/DeenRoutine.apk below to download and install directly.
 
 JazakAllahu Khairan
